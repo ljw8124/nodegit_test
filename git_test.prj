@@ -1,8 +1,8 @@
 {
-  "projectName": "nodegitTest",
+  "projectName": "git_test",
   "fileTree": {
     "type": 0,
-    "name": "nodegitTest",
+    "name": "git_test",
     "children": [
       {
         "type": 1,
@@ -35,7 +35,7 @@
           },
           {
             "type": 4,
-            "name": "nodegitTestApp_global.stl",
+            "name": "git_testApp_global.stl",
             "relType": 1,
             "path": "Template\\"
           }
@@ -57,7 +57,7 @@
         "children": [
           {
             "type": 5,
-            "name": "nodegitTestApp.js",
+            "name": "git_testApp.js",
             "relType": 1,
             "path": "Source\\"
           },
