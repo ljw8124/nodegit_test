@@ -1,4 +1,4 @@
-/**
+	/**
 Constructor
 */
 class MainView extends AView
@@ -7,7 +7,7 @@ class MainView extends AView
 	{
 		super()
 
-		//TODO:edit here
+		//TODO:edit heredfdfd
 
 	}
 
