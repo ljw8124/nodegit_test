@@ -18,7 +18,7 @@ class git_testApp extends AApplication
 		this.setMainContainer(new APage('main'));
 		this.mainContainer.open('Source/MainView.lay');
 
-		//TODO:edit here
+		console.log('ready console');
 
 	}
 
