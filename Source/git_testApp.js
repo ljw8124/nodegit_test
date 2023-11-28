@@ -18,7 +18,7 @@ class git_testApp extends AApplication
 		this.setMainContainer(new APage('main'));
 		this.mainContainer.open('Source/MainView.lay');
 
-		console.log('ready console');
+		console.log('rdddeady console');
 
 	}
 
