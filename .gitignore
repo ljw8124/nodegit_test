@@ -1,0 +1,10 @@
+.idea/
+.DS_Store
+node_modules/
+coverage/
+dist/
+*.bak
+*.log
+*.tsbuildinfo
+package-lock.json
+bin/
