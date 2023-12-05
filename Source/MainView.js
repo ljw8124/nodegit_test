@@ -8,7 +8,7 @@ class MainView extends AView
 		super()
 
 		//TODO:edit heredfdfd
-		console.log('홈페이지에서 변경!');
+		console.log('스테이징 테스트!');
 	}
 
 	init(context, evtListener)
