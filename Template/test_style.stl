@@ -1,0 +1,7 @@
+{
+  "styleName": "test_style",
+  "items": {
+    "edit_here": "\n.edit_here\n{\n\t/* TODO:edit here */\n\n}\n",
+    "test_style": ".test_style\r\n{\r\n}\r\n\r\n"
+  }
+}

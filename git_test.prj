@@ -21,7 +21,16 @@
         "type": 1,
         "name": "Library",
         "action": 2,
-        "children": []
+        "children": [
+          {
+            "type": 5,
+            "name": "testLibrary.js",
+            "action": 9,
+            "relType": 1,
+            "path": "Library\\",
+            "comment": ""
+          }
+        ]
       },
       {
         "type": 1,
@@ -38,6 +47,14 @@
             "name": "git_testApp_global.stl",
             "relType": 1,
             "path": "Template\\"
+          },
+          {
+            "type": 4,
+            "name": "test_style.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
           }
         ]
       },
@@ -49,7 +66,13 @@
       {
         "type": 1,
         "name": "Assets",
-        "children": []
+        "children": [
+          {
+            "type": 1,
+            "name": "images",
+            "children": []
+          }
+        ]
       },
       {
         "type": 1,
