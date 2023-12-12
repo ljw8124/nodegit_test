@@ -8,7 +8,7 @@ class MainView extends AView
 		super()
 
 		//TODO:edit heredfdfd
-		console.log('스테이징 테스트dd!');
+		console.log('스테이징 테스트ddfsdfwed!');
 	}
 
 	init(context, evtListener)
@@ -16,6 +16,7 @@ class MainView extends AView
 		super.init(context, evtListener)
 
 		//TODO:edit here
+		console.log(',,,23124')
 
 	}
 
