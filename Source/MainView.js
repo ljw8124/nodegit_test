@@ -16,7 +16,7 @@ class MainView extends AView
 		super.init(context, evtListener)
 
 		//TODO:edit here
-		console.log(',,,23124')
+		console.log('23124')
 
 	}
 
