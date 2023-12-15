@@ -1,5 +1,12 @@
 {
-	"changed": [],
+	"changed": [
+		"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\bin\\Library\\testLibrary.js",
+		"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\bin\\Source\\MainView.js",
+		"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\bin\\Source\\testView.js",
+		"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\bin\\Template\\test_style.css",
+		"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\bin\\Source\\MainView.html",
+		"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\bin\\Source\\testView.html"
+	],
 	"C:\\Users\\asoosoft3\\Desktop\\Asoosoft\\RND\\SpiderGen3.3\\SpiderGen2_Server\\Runner\\SpiderServer\\..\\..\\Framework\\afc\\library\\jquery-core.js": 1699945029618.7454,
 	"C:\\Users\\asoosoft3\\Desktop\\Asoosoft\\RND\\SpiderGen3.3\\SpiderGen2_Server\\Runner\\SpiderServer\\..\\..\\Framework\\afc\\library\\jquery-ui.js": 1699945029634.371,
 	"C:\\Users\\asoosoft3\\Desktop\\Asoosoft\\RND\\SpiderGen3.3\\SpiderGen2_Server\\Runner\\SpiderServer\\..\\..\\Framework\\afc\\library\\jquery.ui.touch-punch.js": 1699945029634.371,
@@ -147,8 +154,12 @@
 	"C:\\Users\\asoosoft3\\Desktop\\Asoosoft\\RND\\SpiderGen3.3\\SpiderGen2_Server\\Runner\\SpiderServer\\..\\..\\Framework\\afc\\style\\basicStyle.css": 1699945028243.6501,
 	"C:\\Users\\asoosoft3\\Desktop\\Asoosoft\\RND\\SpiderGen3.3\\SpiderGen2_Server\\Runner\\SpiderServer\\..\\..\\Framework\\afc\\style\\jquery-ui.css": 1699945028243.6501,
 	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Source\\git_testApp.js": 1701156720344.5159,
-	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Source\\MainView.js": 1701752793148.3755,
+	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Source\\MainView.js": 1702519225297.0227,
 	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Resource\\common.json": 1700641476198.9453,
 	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Template\\git_testApp_global.stl": 1700641476230.7307,
-	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Source\\MainView.lay": 1700641476238.7324
+	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Source\\MainView.lay": 1702527630106.6194,
+	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Library\\testLibrary.js": 1701910497085.5642,
+	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Source\\testView.js": 1702527625388.1438,
+	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Template\\test_style.stl": 1701910467091.8452,
+	"C:\\Users\\asoosoft3\\Desktop\\leejoungwoo\\git_src\\nodegit_test\\Source\\testView.lay": 1702527625432.1555
 }
