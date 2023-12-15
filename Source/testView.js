@@ -15,7 +15,7 @@ class testView extends AView
 	{
 		super.init(context, evtListener)
 
-		//TODO:edit here
+		//TODO:edit here test
 
 	}
 
