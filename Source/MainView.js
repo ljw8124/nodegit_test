@@ -10,7 +10,7 @@ class MainView extends AView
 		//TODO:edit heredfdfd
 		console.log('스테이징 테스트');
 		console.log('web에서 변경');
-        console.log('커밋푸시테스트');
+        console.log('커밋푸시테스트222');
 	}
 
 	init(context, evtListener)
